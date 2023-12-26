@@ -4,3 +4,6 @@ J'utilise le Web scraping à l'aide de la bibliothèque scrapy pour peut facilem
 
 ![Uploading image.png…]()
 
+![Uploading image.png…]()
+
+
